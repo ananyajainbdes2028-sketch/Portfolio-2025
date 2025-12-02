@@ -1,0 +1,27 @@
+h1{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+style p{
+    background-color: #F7E6A9;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:900;
+}
+
+.headline {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:56px;
+    font-weight: bolder;
+    line-height:1;
+    float: right;
+}
+.about-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    text-align:justify;
+    max-width:640px;
+    float: right;
+}
